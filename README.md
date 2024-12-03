@@ -179,5 +179,5 @@ I also love collaborating on open-source projects and exploring innovative techn
 ---
 
 <div align="center">
-    <p style="font-size: 18px; color: #555;">Made with ❤️ by <a href="https://github.com/takeshikodev" style="color: #007bff;">takeshikodev</a></p>
+    <p style="font-size: 18px; color: #555;">Made with ❤️ by <a href="https://github.com/takeshikodev" style="color: #007bff;">Takeshiko</a></p>
 </div>
