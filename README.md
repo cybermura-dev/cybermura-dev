@@ -173,7 +173,8 @@ I also love collaborating on open-source projects and exploring innovative techn
         <img src="./assets/Discord-Square.svg" style="margin-right: 10px" alt="takeshikodev-discord"/>
     </a>
     <br>
-    <a href="mailto:takeshikodev@gmail.com" style="font-size: 20px; color: #007bff">takeshikodev@hotmail.com</a>
+    Primary: <a href="mailto:takeshikodev@gmail.com" style="font-size: 20px; color: #007bff">takeshikodev@gmail.com</a>
+    Secondary: <a href="mailto:takeshikodev@hotmail.com" style="font-size: 20px; color: #007bff">takeshikodev@hotmail.com</a>
 </div>
 
 ---
