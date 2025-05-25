@@ -10,81 +10,81 @@
     </a>
 </div>
 
-# 👋 Привет, я Роман!
+# 👋 Hello, I'm Roman!
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=100&lines=Mobile+Developer;Desktop+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-Я 20-летний разработчик из Тулы, Россия, в настоящее время обучаюсь в Тульском колледже строительства и промышленных технологий. Моя страсть заключается в разработке графических приложений для десктопных и мобильных платформ, с особым интересом к нейронным сетям и компьютерному зрению.
+I'm a 20-year-old developer from Tula, Russia, currently studying at Tula College of Construction and Industry Technologies. My passion lies in developing graphical applications for both desktop and mobile platforms, with a special interest in neural networks and computer vision.
 
-## 🎯 Обо мне
+## 🎯 About Me
 
-- **Машинное обучение и ИИ:** Разработка систем, способных обучаться и адаптироваться к данным. 🤖📈
-- **Десктопные и мобильные приложения:** Создание безупречных приложений для десктопных и мобильных платформ. 📱🎨
-- **Веб-разработка:** Воплощение идей в жизнь через динамические и интерактивные веб-интерфейсы. 🌐💡
-- **Компьютерное зрение:** Наделение машин способностью интерпретировать и понимать визуальную информацию. 🔍💡
+- **Machine Learning & AI:** Developing systems that can learn and adapt to data. 🤖📈
+- **Desktop & Mobile Apps:** Crafting seamless applications for desktop and mobile platforms. 📱🎨
+- **Web Development:** Bringing ideas to life through dynamic and interactive online interfaces. 🌐💡
+- **Computer Vision:** Enabling machines to interpret and understand visual information. 🔍💡
 
-### 🎓 Образование
-- **Специальность:** Информационные системы и программирование
-- **Направление:** Разработка десктопных и мобильных приложений
-- **Текущий статус:** Студент Тульского колледжа строительства и промышленных технологий
+### 🎓 Education
+- **Major:** Information Systems and Programming
+- **Focus:** Desktop and Mobile Application Development
+- **Current Status:** Student at Tula College of Construction and Industry Technologies
 
-### 🏆 Достижения
-- 🥇 **Победитель** Регионального чемпионата "Профессионалы" (2024)
-- 🌟 **Участник** PRO-Защиты Общероссийской общественной организации "Общее дело" (2024)
-- 🏅 **1 место** на Выставке научно-технического творчества студентов (2024)
+### 🏆 Achievements
+- 🥇 **Winner** of the Regional Championship "Professionals" (2024)
+- 🌟 **Participant** in PRO-Defense of the All-Russian Public Organization "Common Cause" (2024)
+- 🏅 **1st Place** at the Student Scientific and Technical Creativity Exhibition (2024)
 
-## 💻 Мои навыки
+## 💻 My Expertise
 
 <div align="center">
     <table>
         <tr>
             <td align="center">
-                <b>🤖 Машинное обучение и ИИ</b><br>
-                Разработка адаптивных обучающихся систем
+                <b>🤖 Machine Learning & AI</b><br>
+                Developing adaptive learning systems
             </td>
             <td align="center">
-                <b>📱 Десктопные и мобильные приложения</b><br>
-                Создание безупречных кроссплатформенных приложений
+                <b>📱 Desktop & Mobile Apps</b><br>
+                Creating seamless cross-platform applications
             </td>
         </tr>
         <tr>
             <td align="center">
-                <b>🌐 Веб-разработка</b><br>
-                Создание динамических веб-интерфейсов
+                <b>🌐 Web Development</b><br>
+                Building dynamic web interfaces
             </td>
             <td align="center">
-                <b>🔍 Компьютерное зрение</b><br>
-                Реализация систем визуального распознавания
+                <b>🔍 Computer Vision</b><br>
+                Implementing visual recognition systems
             </td>
         </tr>
     </table>
 </div>
 
-## 🐾 Мой любимый питомец
+## 🐾 My Favourite Pet
 
 <div align="center">
     <img src="./assets/content/Pet_1.jpg" style="width: 300px; height: auto; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="takeshikodev-pet-1">
     <img src="./assets/content/Pet_2.jpg" style="width: 300px; height: auto; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="takeshikodev-pet-2">
 </div>
 
-## 🚀 Мои работы
+## 🚀 My Works
 
-### Проект HungryPeople
+### HungryPeople Project
 <div align="center">
     <img src="./assets/content/HungryPeople-MainPage.png" style="width: 300px; height: auto; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="takeshikodev-hungrypeople-mainpage">
     <img src="./assets/content/HungryPeople-ScrollPage.png" style="width: 300px; height: auto; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="takeshikodev-hungrypeople-scrollpage">
 </div>
 
-### Проект MatuleMe
+### MatuleMe Project
 <div align="center">
     <img src="./assets/content/MatuleMe-MainPage.png" style="width: 300px; height: auto; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="takeshikodev-matuleme-mainpage">
     <img src="./assets/content/MatuleMe-ProductPage.png" style="width: 300px; height: auto; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="takeshikodev-matuleme-productpage">
     <img src="./assets/content/MatuleMe-CartPage.png" style="width: 300px; height: auto; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="takeshikodev-matuleme-cartpage">
 </div>
 
-## 📊 Активность на GitHub
+## 📊 GitHub Activity
 
 <div align="center">
     <a href="https://github.com/takeshikodev">
@@ -92,9 +92,9 @@
     </a>
 </div>
 
-## 🛠️ Технологический стек
+## 🛠️ Tech Stack
 
-### Языки программирования
+### Programming Languages
 <div align="center">
     <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/"><img src="./assets/CS.svg" width="60" alt="C#"/></a>
     <a href="https://learn.microsoft.com/ru-ru/cpp/c-language/?view=msvc-170"><img src="./assets/C.svg" width="60" alt="C"/></a>
@@ -110,7 +110,7 @@
     <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="./assets/CSS.svg" width="60" alt="CSS"/></a>
 </div>
 
-### Инструменты разработки
+### Development Tools
 <div align="center">
     <a href="https://git-scm.com/"><img src="./assets/Git.svg" width="60" alt="Git"/></a>
     <a href="https://about.gitlab.com/"><img src="./assets/GitLab.svg" width="60" alt="GitLab"/></a>
@@ -122,7 +122,7 @@
     <a href="https://bun.sh/"><img src="./assets/Bun.svg" width="60" alt="Bun"/></a>
 </div>
 
-### Базы данных
+### Databases
 <div align="center">
     <a href="https://www.sqlite.org/"><img src="./assets/SQLite.svg" width="60" alt="SQLite"/></a>
     <a href="https://www.mysql.com/"><img src="./assets/MySQL.svg" width="60" alt="MySQL"/></a>
@@ -130,7 +130,7 @@
     <a href="https://www.postgresql.org/"><img src="./assets/PostgreSQL.svg" width="60" alt="PostgreSQL"/></a>
 </div>
 
-### IDE и инструменты дизайна
+### IDEs & Design Tools
 <div align="center">
     <a href="https://visualstudio.microsoft.com/downloads/"><img src="./assets/VisualStudio.svg" width="60" alt="Visual Studio"/></a>
     <a href="https://code.visualstudio.com/"><img src="./assets/VSCode.svg" width="60" alt="VS Code"/></a>
@@ -141,7 +141,7 @@
     <a href="https://www.figma.com/"><img src="./assets/Figma.svg" width="60" alt="Figma"/></a>
 </div>
 
-## 📫 Связаться со мной
+## 📫 Contact Me
 
 <div align="center">
     <a href="https://t.me/takeshikodev">
@@ -152,13 +152,13 @@
     </a>
     <br><br>
     <div style="font-size: 18px;">
-        <strong>Основной:</strong> <a href="mailto:takeshikodev@gmail.com" style="color: #007bff">takeshikodev@gmail.com</a><br>
-        <strong>Дополнительный:</strong> <a href="mailto:takeshikodev@hotmail.com" style="color: #007bff">takeshikodev@hotmail.com</a>
+        <strong>Primary:</strong> <a href="mailto:takeshikodev@gmail.com" style="color: #007bff">takeshikodev@gmail.com</a><br>
+        <strong>Secondary:</strong> <a href="mailto:takeshikodev@hotmail.com" style="color: #007bff">takeshikodev@hotmail.com</a>
     </div>
 </div>
 
 ---
 
 <div align="center">
-    <p style="font-size: 18px; color: #555;">Сделано с ❤️ <a href="https://github.com/takeshikodev" style="color: #007bff;">Takeshiko</a></p>
+    <p style="font-size: 18px; color: #555;">Made with ❤️ by <a href="https://github.com/takeshikodev" style="color: #007bff;">Takeshiko</a></p>
 </div>
