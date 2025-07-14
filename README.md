@@ -152,7 +152,7 @@ I'm a 20-year-old developer from Tula, Russia, currently studying at Tula Colleg
     </a>
     <br><br>
     <div style="font-size: 18px;">
-        <strong>Primary:</strong> <a href="mailto:cybermura.dev@gmail.com" style="color: #007bff">cybermura.dev@gmail.com</a><br>
+        <strong>Primary:</strong> <a href="mailto:cybermura@mail.ru" style="color: #007bff">cybermura@mail.ru</a><br>
     </div>
 </div>
 
