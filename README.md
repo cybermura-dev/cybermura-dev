@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://socialify.git.ci/cybermura-dev/cybermura/image?description=1&descriptionEditable=MOBILE%20AND%20DESKTOP%20SOFTWARE%20DEVELOPER&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto" width="640" height="320" alt="cybermura-card"/>
+    <img src="https://socialify.git.ci/cybermura-dev/cybermura-dev/image?description=1&descriptionEditable=MOBILE%20AND%20DESKTOP%20SOFTWARE%20DEVELOPER&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto" width="640" height="320" alt="cybermura-card"/>
     <br>
     <a href="https://github.com/cybermura-dev">
         <img src="https://komarev.com/ghpvc/?username=cybermura-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cybermura-views"/> 
